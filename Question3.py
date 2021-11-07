@@ -1,3 +1,7 @@
+"""
+Program only makes use of lists and functions related to lists
+Program makes use of only basic python functions 
+"""
 # Ask user to input numbers
 print("Lets create list A consisting of numbers")
 a = int(input("1:"))
