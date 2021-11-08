@@ -3,11 +3,7 @@
 Project done by:
 
 *Sarah Sunday Moses
-
 *Millicent Malinga
-
 *Kevin Onyancha
-
 *David Soro
-
 *Beauty Ikudehinbu
