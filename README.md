@@ -2,12 +2,12 @@
 
 Project done by:
 
-Sarah Sunday Moses
+*Sarah Sunday Moses
 
-Millicent Malinga
+*Millicent Malinga
 
-Kevin Onyancha
+*Kevin Onyancha
 
-David Soro
+*David Soro
 
-Beauty Ikudehinbu
+*Beauty Ikudehinbu
