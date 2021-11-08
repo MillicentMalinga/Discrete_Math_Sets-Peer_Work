@@ -1,6 +1,6 @@
 # Discrete_Math_Sets-Peer_Work
 
-## Project done by:
+## Authors:
 
 * Sarah Sunday Moses
 * Millicent Malinga
