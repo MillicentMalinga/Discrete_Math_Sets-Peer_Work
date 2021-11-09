@@ -9,9 +9,9 @@ y2 = int(input("Enter the third for the second list\n"))
 #Lines 10 to 11 creates list from user input
 X = [x0, x1, x2]
 Y = [y0, y1, y2]
-#empty dictionary to store the modulus after dividing elements in list b by list a
+#empty dictionary to store the modulus after dividing elements in list X by list Y
 collective = []
-#function that takes the parameter a and b which are lists
+#function that takes the parameter X and Y which are lists
 def truth_false(X, Y):
     #Checking and using every element in each list
     for i in X:
