@@ -7,15 +7,15 @@ y1 = int(input("Enter the second for the second list\n"))
 y2 = int(input("Enter the third for the second list\n"))
 
 #Lines 10 to 11 creates list from user input
-a = [x0, x1, x2]
-b = [y0, y1, y2]
+X = [x0, x1, x2]
+Y = [y0, y1, y2]
 #empty dictionary to store the modulus after dividing elements in list b by list a
 collective = []
 #function that takes the parameter a and b which are lists
-def truth_false(a, b):
+def truth_false(X, Y):
     #Checking and using every element in each list
-    for i in a:
-        for p in b:
+    for i in X:
+        for p in Y:
             #appending the modulus to the dictionary
             collective.append(p%i)
     #printing the collective for verification
@@ -26,4 +26,4 @@ def truth_false(a, b):
     else:
         print("FALSE")
 #calling the function
-truth_false(a, b)
+truth_false(X, Y)
