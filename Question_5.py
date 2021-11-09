@@ -17,7 +17,7 @@ def truth_false(X, Y):
     for i in X:
         for p in Y:
             #appending the modulus to the dictionary
-            collective.append(p%i)
+            collective.append(i%p)
     #printing the collective for verification
     print(collective)
     #checking if any element in the dictionary is equal to zero
