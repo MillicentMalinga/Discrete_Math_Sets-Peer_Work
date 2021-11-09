@@ -60,10 +60,10 @@ def set_functions(a, b):
 # x = "a"
 # y = {"f", "e", "d", "c", "b", "a"}
 #
-# print(subset_check(y, x))
+# print(set_functions(y, x))
 
 # test case 2
-x = {"a", "b", "c"}
-y = {"f", "e", "d", "c", "b", "a"}
+# x = {"a", "b", "c"}
+# y = {"f", "e", "d", "c", "b", "a"}
 
-print(set_functions(y, x))
+# print(set_functions(y, x))
